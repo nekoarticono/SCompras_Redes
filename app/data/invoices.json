@@ -1,0 +1,16 @@
+[
+    {
+        "number": "000001",
+        "user_id": 1,
+        "user_name": "Marcioo",
+        "user_email": "msousa.11731@alunos.eps.pt",
+        "product": "Laptop Dell",
+        "quantity": 5,
+        "subtotal": 4015,
+        "discount": 0,
+        "total": 4015,
+        "date": "2026-05-12 15:42:44",
+        "warranty": true,
+        "gift_wrap": true
+    }
+]
