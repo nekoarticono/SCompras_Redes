@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Marcioo",
+        "email": "msousa.11731@alunos.eps.pt",
+        "password": "$2y$12$PayJR\/COpu.f86ZX0YagNOgSWpkX42Jrv8XJjcG5WblaZMgJdRqQy",
+        "address": "Durante o desenvolvimento da aplica\u00e7\u00e3o, devem garantir que:\r\nOs dados recebidos de formul\u00e1rios s\u00e3o sempre validados (ex: campos obrigat\u00f3rios, tipos\r\ncorretos, emails v\u00e1lidos).\r\n\u2022 As palavras-passe devem ser guardadas de forma segura (ex: atrav\u00e9s de password_hash() e\r\npassword_verify()).\r\n\u2022 Os dados enviados por utilizadores devem ser tratados para evitar inje\u00e7\u00f5es de c\u00f3digo ou XSS (ex: htmlspecialchars()).\r\nDura\u00e7\u00e3o: 8 horas\r\n1.a Etapa - Planeamento\r\nEm grupo, num documento Word, respondam \u00e0s seguintes quest\u00f5es:\r\n1. Nome dos elementos do grupo\r\n2. Tema, objetivos e conte\u00fados da solu\u00e7\u00e3o a implementar.\r\n3. Quais s\u00e3o os principais utilizadores do sistema?\r\n4. Quais s\u00e3o as funcionalidades que v\u00e3o implementar?\r\n5. Que dados t\u00eam de ser guardados? Onde e como?\r\n6. Desenhem a estrutura dos ficheiros JSON que v\u00e3o utilizar\r\n7. Desenhem um diagrama simples com as etapas do processo de compra.\r\n8. Descrevam todos os ficheiros que v\u00e3o fazer parte do projeto e indiquem o papel de cada um.\r\n9. Estrutura\u00e7\u00e3o de solu\u00e7\u00e3o de implementa\u00e7\u00e3o\r\n10. Divis\u00e3o das tarefas pelos elementos do grupo",
+        "points": 401
+    }
+]
