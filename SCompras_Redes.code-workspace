@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+scaling-trout-5gjvr6qr7jw6379wv/workspaces/SCompras_Redes"
+		}
+	],
+	"remoteAuthority": "codespaces+scaling-trout-5gjvr6qr7jw6379wv",
+	"settings": {
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"main"
+		]
+	}
+}
